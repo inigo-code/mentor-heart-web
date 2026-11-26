@@ -1,12 +1,12 @@
 {
-  "version": "0.5.0",
-  "versionCode": 7,
-  "runtimeVersion": "d333ce478b9ce5433a12bcba31e107b270e0ca56",
-  "url": "https://mh.inigo.co.in/mentorheart-0.5.0.apk",
-  "size": 55843353,
-  "date": "2026-11-22",
+  "version": "0.6.0",
+  "versionCode": 9,
+  "runtimeVersion": "94b87020c15e140383b1a8c0e5fa6ad6e0b226e8",
+  "url": "https://mh.inigo.co.in/mentorheart-0.6.0.apk",
+  "size": 57344863,
+  "date": "2026-11-26",
   "notes": [
-    "GPS camera: photos with a map, address and time",
-    "Alumni, Messages, mentors and rooms, built in"
+    "A real document scanner: many pages, HD, reads the text",
+    "Post a scan as an announcement, hand it in, or keep it"
   ]
 }
