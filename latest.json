@@ -1,12 +1,12 @@
 {
-  "version": "0.6.0",
-  "versionCode": 9,
-  "runtimeVersion": "94b87020c15e140383b1a8c0e5fa6ad6e0b226e8",
-  "url": "https://mh.inigo.co.in/mentorheart-0.6.0.apk",
-  "size": 57344863,
+  "version": "0.7.0",
+  "versionCode": 11,
+  "runtimeVersion": "09e6bb6b73820fca928620888982844e5bf21b0d",
+  "url": "https://mh.inigo.co.in/mentorheart-0.7.0.apk",
+  "size": 57404700,
   "date": "2026-11-26",
   "notes": [
-    "A real document scanner: many pages, HD, reads the text",
-    "Post a scan as an announcement, hand it in, or keep it"
+    "Scan opens Google's document scanner: it finds the page and takes the photo by itself",
+    "Pages turn at once"
   ]
 }
